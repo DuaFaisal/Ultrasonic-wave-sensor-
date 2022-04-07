@@ -1,0 +1,2 @@
+ Here, a simple circuit is made using an ultrasonic wave sensor with Arduino. The sensor is of four pins Vcc, ground, trigger and echo connected respectively. Distance is measured by first caculating time and speed of the waves. Red and green LEDs are detecting the given condition.
+ For eg: if the distance is less than 10cm then red LED will turn on and if distance is greater than 20 cm, green LED would turn on
